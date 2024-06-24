@@ -1,0 +1,250 @@
+251, Withstand, CVCVCV, 11000
+252, At, CV, 10
+253, No, CV, 10
+254, To, CV, 10
+255, Ascendant, CVCVCVCC, 010110
+256, The sun, CVCVC, 110
+257, Oh, CV, 10
+258, Time to, CVCCVC, 1010
+259, A, V, 1
+260, An, VC, 10
+261, Instrumentality, ICVCCVVCICVCCVCV, 1000110100
+262, Winter's, CVCCVCC, 10100
+263, Archery, VCCVCVC, 010100
+264, See in, CCVVC, 100010
+265, Gowk, CVC, 100
+266, Wrath, CVCV, 100
+267, Rennie, CVCVC, 10010
+268, Does he, CVVCVC, 1010
+269, Grow soft, CVCCCVVC, 1100
+270, Blossoms, CCVCCVCS, 101010
+271, Creaking, CCVCCVC, 10010
+272, Pathway, CVCVVCV, 10010
+273, We, VC, 10
+274, Perhaps you, CVCVVCC, 101000
+275, If, CV, 010000
+276, To wander, CVVCCVCVC, 010101010
+277, Still to, CVCVCV, 01010
+278, To, CV, 10
+279, A, V, 1
+280, Multitude, CVCCCVVCVC, 100100
+281, Hum to, CVCCVC, 100
+282, A, V, 1
+283, Inauguration, ICVVCVCVCCVCVCVC, 101001010
+284, Prince, CVCVC, 01010
+285, We, VC, 10
+286, Does he, CVVCVC, 1010
+287, Cap, CVC, 010
+288, April's, VCVCVC, 01010
+289, Fly, CV, 10
+290, Run, VC, 10
+291, To, CV, 10
+292, Catalogue, CVCVCVCVC, 10010
+293, My, VC, 10
+294, Do, VC, 10
+295, Where the, CVVCVC, 1010
+296, Letter from, CVCCVCVC, 101000010
+297, Broad street, CVVCVCCVC, 10100
+298, Fall, VC, 11
+299, By, VC, 10
+300, Where I, CVVCCI, 10100
+301, Oh, CV, 10
+302, Multitude, CVCCCVVCVC, 110001
+303, Up, VC, 10
+304, To, CV, 10
+305, By, VC, 10
+306, To, CV, 10
+307, Never so, CVVCVC, 101010
+308, Boldly, CVCCVC, 010
+309, Ever to, CVVCVC, 1010
+310, This sad, CVCVCV, 101100
+311, Memorabilia, CVCCVVCVCCVCVC, 1010110
+312, Will, VC, 010
+313, There doth, CVCCCVVC, 1010
+314, To, CV, 10
+315, Did, VC, 10
+316, Men do, CVVCC, 1000
+317, Heaven does, CVVCVVC, 10100
+318, Are, VC, 10
+319, Love, CVVC, 0100
+320, Nigh, CV, 10
+321, God, CVC, 1
+322, Take it, CVCVC, 01001
+323, Must I to, CVCCVCV, 101100
+324, The, CV, 1
+325, Snore, CVVC, 11
+326, Can, VC, 10
+327, Off, CV, 10
+328, Still the, CVVCVC, 0101
+329, Branch of, CVCCCVVC, 0100
+330, Ran so, CCVCC, 101
+331, Verdant, CVCCVC, 10100
+332, Clings to, CVCCVC, 0100
+333, O'er, VC, 10
+334, Did but, VCVCV, 110
+335, O have, CVVCC, 101
+336, Cast a, CCCVCC, 100
+337, Sword, CVVC, 100
+338, Fear and, VCVCVC, 11100
+339, Leads to, CVVCVC, 101000
+340, Would I, CVVCVI, 100010
+341, Love to, CVVCC, 1010
+342, Whom the, CVVCVCV, 0100110
+343, They had, CVCVC, 10010
+344, Passion it, CVVCVIC, 101010
+345, Love, CVVC, 100
+346, Breaking in, CVCCCVVC, 110100
+347, John, CVC, 0100
+348, Shame, CVVC, 100
+349, To eat, CVVCC, 10
+350, At, V, 1
+351, Defeat by, CVVCVCVC, 1010100
+352, Took in, CVCCVC, 10100
+353, Along to, CVCCVVC, 10010
+354, Physiogn, CVCVCVC, 1110
+355, She, CV, 10
+356, Must go, VCVC, 100
+357, Condescend to, CVCCCVCCVCV, 1010100110
+358, Close, CVVC, 10
+359, Ill is, VCVC, 0100
+360, Honour's, CVCVC, 01000
+361, Live to, CVVCV, 100
+362, Beast, CVCC, 1000
+363, Violence, VCVCVC, 100100
+364, Poet, CVVC, 1010
+365, Voluptuousness, VCVCCCVVCCSS, 01000100
+366, Row, VC, 100
+367, Rebel, CVCCV, 1000
+368, Grow, VC, 010
+369, Smiles, CVCVS, 11
+370, Wakened, CVCVCC, 10010
+371, Home to, CCVCVC, 11010
+372, Home, CVVC, 10
+373, Love's, CVVC, 0100
+374, Can not, CVCVC, 1010
+375, Four,? CV, 1
+376, The, CV, 1
+377, To, CV, 10
+378, We, VC, 10
+379, Ladies, CVCCVC, 1101
+380, Singing, CVCCVC, 101000
+381, Me, VC, 10
+382, Blood is, CVCVC, 1100
+383, Nobleman's, CVCVCVC, 100100
+384, Golden, CVCCVC, 010010
+385, Was won, VCVC, 100
+386, Sea, VC, 10
+387, Mantle, CCVCCVC, 10100
+388, Forget, CVCCVC, 0110
+389, Day, VC, 1
+390, Came, VC, 10
+391, Is no, VCV, 10
+392, One, VC, 1
+393, More, VC, 01000
+394, Off, CV, 010
+395, To me, CVV, 10100
+396, Discontentment, IDCVICCVVCCI, 1001000100
+397, Love, CVVC, 100
+398, Was, VC, 1
+399, Can, VC, 10
+400, Our, VC, 10
+401, Regret to, CVCCVCV, 010010
+402, Bye, VC, 110
+403, Tales of, CVCCVC, 101000
+404, Too late, CVVCCV, 10100
+405, Go, VC, 10
+406, Hear, VC, 10
+407, Brazen, CVCVC, 11
+408, Thrilling, CCVCCVC, 101000
+409, Shall not, CVCCVC, 10010
+410, Foes, CVVC, 10
+411, Got a, CVVC, 1
+412, Reign of, CVVCV, 101100
+413, Human, CVVCC, 1010
+414, Love to, CVVCC, 1010
+415, Float, CVVC, 10
+416, Treasurer, CCVVCVCVC, 0101100
+417, Gorging, CVCCVC, 1010
+418, To be, CVVC, 110
+419, Trunk of, CVCCCV, 110
+420, But when, CVVCC, 10
+421, With a, CVVC, 110
+422, Nations to, CVCCVCCVCC, 1010
+423, Ruins of the, CVVCCVCVC, 101000
+424, Shadows in, CVVCCV, 10010
+425, Praise in, CVVCCV, 10100
+426, Back on, CCCVVC, 10
+427, Lamented, CVCCVCVC, 1100100
+428, Love in, CVVCC, 10
+429, Yawn that, CVVCVC, 110
+430, Me to, CVVCC, 10100
+431, Need to, CVVCV, 100
+432, To one, CVVC, 10
+433, Into her, CVVCVC, 100
+434, Shyly, CVVC, 10
+435, Critics are, CVCCVCC, 1010
+436, To try, CVVC, 10
+437, See the, CVVCV, 10
+438, Storm the, CVVCVC, 10
+439, Twilight, CVVCVC, 1000
+440, Amount to, CVCCCVCC, 10100
+441, Sense of the, CVCCCVVCVC, 101000
+442, Smug Ray, CVVCVC, 10
+443, Deep within, CVVCCVCV, 110
+444, Sun up, CVVCC, 10
+445, Everywhere, VVCVVC, 110
+446, Few of the, CVVVCCVC, 10
+447, Me to, CVVCC, 10
+448, He Morus, CVVCVC, 110
+449, Me Seem, CVVCV, 0100
+450, By the, CVVC, 10
+451, Evening, VCVC, 10
+452, Lust, CVCC, 100
+453, Claims of, CVCCVC, 10
+454, Down, VC, 010
+455, Last majesties of the, VVCVCVCVCV, 10010
+456, Silent, VCVCVC, 1
+457, Willing, VCVCVC, 10
+458, Rarest, CVVCVC, 10011
+459, Dear friend, CVVCVCC, 10
+460, Dim, VC, 100
+461, Dream thee, CVCCCV, 101
+462, Say they, CVVC, 110
+463, Shadows of the, CVVCVCV, 101100
+464, Ribbons for the, CVVCCVVCCVC, 101000
+465, Vision of the future, CVVCVVCVCVVVC, 101100
+466, Carriage of a, CVCCCVICCCVVC, 1001010
+467, Apprehensive, CVCCVCVVCVC, 11101010
+468, Man mere, CVVCVC, 100
+469, Drop and, CVCVCC, 100
+470, Fairy, CVCCV, 10
+471, Pain of, CVCCCV, 100010
+472, Ne'er, VC, 010010
+473, Love sings, CVVCVCC, 101000
+474, Culprit, CVCCVC, 10
+475, Where, CVVC, 10
+476, Spending, CVCCVC, 10110
+477, Brace of the, CVCCCVIC, 1010100
+478, Serenade of the, CVVCVCCI, 100010
+479, Narrow of the, CVCCCVCC, 10
+480, Rhine wine, CVVCCVC, 1100
+481, Cry out, CVVCC, 11
+482, Monster, CCVCCV, 100
+483, Sleep till, CVVCCCV, 1010
+484, He had, CVVC, 10
+485, Bleeding, CVCCVCC, 1001
+486, Go, VC, 10
+487, Meanwhile, CVVCVVC, 1010
+488, Wot within, CVCCCVVC, 10
+489, Sentimental, CVCCVCVCVC, 101000
+490, Wife, VC, 10100
+491, Dog of, CVCCVC, 10
+492, Wild bees, VCVCVCC, 1010
+493, Pictures of the, CVCVVCVCCVC, 10100
+494, Diamond the, CVVCCVCVC, 10010
+495, Said, VC, 10
+496, Endings, VCVCVC, 101000
+497, Flowers of the, CVVCCVCCVC, 10
+498, Cloister of the, CVVCVCCVCCVC, 10100
+499, Freedom of the, CVVCCCVCCVC, 100
+500, Nevermore, VCVCVCVC, 0111000
